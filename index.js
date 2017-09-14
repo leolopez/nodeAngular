@@ -6,8 +6,7 @@ var app = express();
 
 //requiring local modeles
 var configs = require('./config');
-//var routes = require('./routes/routes');
- //app.use(bootstrap);
+
 // Uncomment the following lines to start logging requests to consoles.
 // app.use(morgan('combined'));
 // parse application/x-www-form-urlencoded.
