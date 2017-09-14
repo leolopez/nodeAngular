@@ -1,5 +1,6 @@
 #book app
 
+update configuration file if necesary in: config.js
 
 install node.js
 
